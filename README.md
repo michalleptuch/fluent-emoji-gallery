@@ -1,9 +1,10 @@
 # Fluent Emoji Gallery
 
-Explore an amazing collection of familiar, friendly, and modern emoji in three styles: fluent, flat, and monochromatic. Search and save images in SVG and PNG formats. Fluent Emoji Gallery app is based on official Microsoft's repository - Fluent Emoji.
+Discover a fantastic collection of familiar, friendly, and modern emojis in three styles: 3D (with animations for most emojis), 2D, and monochrome. Easily search and save images in SVG and PNG formats. The Fluent Emoji Gallery app is built on Microsoft's official Fluent Emoji and Fluent Emoji Animated repositories.
 
-<a href="https://www.microsoft.com/store/apps/9N965R0G2SND">
-<img src="images/StoreTile.png" width=80/><img src="https://github.com/michalleptuch/michalleptuch/blob/main/images/get.png?raw=true" height=80 /></a>
+<a href="https://apps.microsoft.com/detail/9n965r0g2snd?mode=full">
+  <img src="https://get.microsoft.com/images/en-us%20light.svg" width="300"/>
+</a>
 <br><br>
 
 ![](images/Screenshot.png)  
